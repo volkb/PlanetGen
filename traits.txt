@@ -1,0 +1,17 @@
+Lush
+Newly_Settled
+Resource_Rich
+Barren
+Desert
+Destroyed_Future_Civilization 
+Dwarf
+Gas_Giant
+Aquatic
+Destroyed_Stone_Age_Civilization
+Sentient
+Thriving_Ecosystem
+Tomb_World
+Frozen
+Over_Grown
+Destroyed_Modern_Civilization
+Existing_Sentient_life

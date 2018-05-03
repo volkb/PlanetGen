@@ -1,0 +1,10 @@
+Phase_Gate
+Wormhole
+Dyson_Sphere
+Dormant_Technology
+Space_Pony
+Ship_Upgrade_Cache
+Credit_Cache
+Weapon_Cache
+Armor_Cache
+Dead_Station

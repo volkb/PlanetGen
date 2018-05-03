@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525297370 source:d:\code_blocks\planetgen_v2\planet.cpp
+	"planet.h"
+
+1525298335 d:\code_blocks\planetgen_v2\planet.h
+	<string>
+	<vector>
+	<iostream>
+	<cmath>
+	<ctime>
+	<iostream>
+	<cassert>
+	<cstdlib>
+
+1525298237 source:d:\code_blocks\planetgen_v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cmath>
+	<ctime>
+	<cassert>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"planet.h"
+
