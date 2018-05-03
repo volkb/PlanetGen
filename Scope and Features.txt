@@ -1,0 +1,20 @@
+Program Must: 
+
+3 Main arguments:
+Single Random Planet
+Series of Multiple Planet in a system
+Intaken values for specific Planet
+
+Readin from files -> Vectors (Main)
+Roll Dice for # and specific Traits (Class)
+Eliminate and Reroll conflicting or duplicate vlaues (Class) 
+Output new Planet -> JSON Txt (Class)
+
+for system of planets:
+Must generate a star (assign a grade)
+	--> assign number of planets based on grade
+Determine gravity well of system for planet placement
+	--> Horizontal X axis only assuming circular roation
+create planets based on distance from star
+	--> if super close, more heat related hazards
+	--> if super far, more cold related hazards
