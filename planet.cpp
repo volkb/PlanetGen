@@ -73,7 +73,8 @@ void Planet::allocate_characteristics(vector<string>& p_traits,vector<string>& p
     grade_planet();
 }
 
-void Planet::output_to_screen(){
+void Planet::output_to_screen()
+{
     cout<<"Stellar Chart Recorded for Planet: "<<name<<endl;
     cout<<"     Traits: "<<endl;
     if(traits.size() == 0){//outputs traits to screen
