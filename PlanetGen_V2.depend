@@ -25,3 +25,34 @@
 	<chrono>
 	"planet.h"
 
+1525393064 source:a:\code_blocks\planetgen\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cmath>
+	<ctime>
+	<cassert>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"planet.h"
+
+1525393064 a:\code_blocks\planetgen\planet.h
+	<string>
+	<vector>
+	<iostream>
+	<cmath>
+	<ctime>
+	<iostream>
+	<cassert>
+	<cstdlib>
+
+1525393064 source:a:\code_blocks\planetgen\planet.cpp
+	"planet.h"
+
+1525405324 source:a:\code_blocks\planetgen\system.cpp
+	"system.h"
+
+1525405324 a:\code_blocks\planetgen\system.h
+
